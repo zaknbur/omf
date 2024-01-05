@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 zaknbur/omf is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Jupyter](http://jupyter.org) – Data Science Notebooks
@@ -10,11 +11,13 @@ zaknbur/omf is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 zaknbur/omf is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
@@ -23,14 +26,15 @@ zaknbur/omf is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [zaknbur/omf](https://github.com/zaknbur/omf)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|11/23/23 <br/>Report generated|
+|12<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -120,10 +124,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[properties](https://pypi.org/properties)|N/A|04/16/19|Franklin Koch |MIT|N/A|
-|[pypng](https://pypi.org/pypng)|N/A|11/29/16|fwkoch |MIT|N/A|
-|[six](https://pypi.org/six)|N/A|11/29/16|fwkoch |MIT|N/A|
-|[vectormath](https://pypi.org/vectormath)|v0.2.0|01/16/19|Franklin Koch |MIT|N/A|
+|[properties](https://pypi.org/project/properties)|N/A|04/16/19|Franklin Koch |MIT|N/A|
+|[pypng](https://pypi.org/project/pypng)|N/A|11/29/16|fwkoch |MIT|N/A|
+|[six](https://pypi.org/project/six)|N/A|11/29/16|fwkoch |MIT|N/A|
+|[vectormath](https://pypi.org/project/vectormath)|v0.2.0|01/16/19|Franklin Koch |MIT|N/A|
 
 <br/>
 <div align='center'>
